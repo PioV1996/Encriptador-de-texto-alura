@@ -1,0 +1,40 @@
+body{
+    background-color: #F3F5FC;
+}
+
+.logo{
+    position: relative;
+}
+
+.area-mensaje{
+    width: 900px;
+}
+
+.mensaje{
+    margin: 0 -6%;
+    
+}
+
+.mensaje li{
+    display: inline-block;
+    padding: 0 40px;
+}
+
+textarea{
+    color: #0A3871;
+    border-radius: 10px;
+}
+
+.encriptar{
+    margin: 0 40%;
+    font-family: Inter;
+    font-size: 1em;
+    border: none;
+    background-color: #F3F5FC;
+}
+
+.desencriptar{
+    margin-left: 130%;
+    font-family: Inter;
+    font-size: 1em;
+}
